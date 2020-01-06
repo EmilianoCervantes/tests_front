@@ -15,7 +15,7 @@
 8. Guarda los cambios en tu rama y súbelos al repositorio.
    * Recuerda agregar al .gitignore logs, carpeta de node modules, etc. para no tener archivos innecesarios en el repositorio.
 ##### Extra
-9. [ ]
+9. [ ] No sólo cuando cambie el dropdown, también cuando cambie cualquiera de los inputs, se guarde un nuevo registro.
 
 ## Tiempo límite:
 **1:30 hrs**
