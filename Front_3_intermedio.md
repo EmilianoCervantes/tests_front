@@ -12,7 +12,7 @@
 5. [ ] Crea dos inputs, un dropdown en medio para elegir signos de operación (+, -, \*, /) simulando una calculadora.
 6. [ ] Cada que se elija un signo del listado del *dropdown*, ir agregando a una tabla los números ingresados, qué operación fue realizada y el resultado.
 7. [ ] Botón de limpiar tabla para borrar todo.
-8. Guarda los cambios en tu rama y súbelos al repositorio.
+8. [ ] Guarda los cambios en tu rama y súbelos al repositorio.
    * Recuerda agregar al .gitignore logs, carpeta de node modules, etc. para no tener archivos innecesarios en el repositorio.
 ##### Extra
 9. [ ] No sólo cuando cambie el dropdown, también cuando cambie cualquiera de los inputs, se guarde un nuevo registro.
